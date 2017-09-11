@@ -3,5 +3,4 @@ def Person
     @name = name
     @breed = "Mutt"
   end
-  def initialize
 end
